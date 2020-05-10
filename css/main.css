@@ -1295,7 +1295,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #d9aaff;
+  background: #a8ffbd;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1523,7 +1523,7 @@ pre .javascript .function {
 }
 .languages {
   display: inline-block;
-  font-size: 1.125em;
+  font-size: 0.99em;
   position: relative;
 }
 .languages .lang-select-label span {
@@ -1639,7 +1639,7 @@ pre .javascript .function {
 }
 @media (min-width: 1200px) {
   .post-body {
-    font-size: 1.125em;
+    font-size: 0.99em;
   }
 }
 .post-body .exturl .fa {
@@ -1688,7 +1688,7 @@ pre .javascript .function {
   }
 }
 .posts-collapse .collection-title {
-  font-size: 1.125em;
+  font-size: 0.99em;
   position: relative;
 }
 .posts-collapse .collection-title::before {
@@ -1890,7 +1890,7 @@ pre .javascript .function {
   margin: 0;
 }
 .posts-expand .post-header {
-  font-size: 1.125em;
+  font-size: 0.99em;
 }
 .posts-expand .post-title {
   font-size: 1.5em;
@@ -2824,7 +2824,7 @@ body {
   -o-background-size: cover;
   -moz-background-size: cover;
   -ms-background-size: cover;
-  opacity: 0.8;
+  opacity: 0.88888888;
 }
 body #footer > div > div {
   color: #000;
