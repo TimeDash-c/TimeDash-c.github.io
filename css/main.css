@@ -1295,7 +1295,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #37ffc9;
+  background: #2f4bf6;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2815,7 +2815,7 @@ ul.breadcrumb li + li:last-child {
   font-size: 13px;
 }
 body {
-  background: url("001.jpg");
+  background: url("https://cn.bing.com/th?id=OHR.BaliRiceHarvest_ZH-CN9267319542_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
